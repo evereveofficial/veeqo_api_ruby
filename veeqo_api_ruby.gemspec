@@ -27,7 +27,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'faraday', '~> 2.7.10'
   spec.add_dependency 'oj'
-  spec.add_dependency 'faraday_middleware', '~ 1.2.0'
+  spec.add_dependency 'faraday_middleware', '~> 1.2.0'
   spec.add_dependency 'hashie', '~> 3.4'
   spec.add_dependency 'jwt', '~> 1.5.4'
 end
