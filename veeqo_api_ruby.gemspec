@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rspec'
   spec.add_development_dependency 'rspec-nc'
 
-  spec.add_dependency 'faraday', '~> 2.7.10'
+  spec.add_dependency 'faraday', '~> 1.10.3'
   spec.add_dependency 'oj'
   spec.add_dependency 'faraday_middleware', '~> 1.2.0'
   spec.add_dependency 'hashie', '~> 3.4'
